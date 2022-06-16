@@ -2,9 +2,9 @@
 
 ### Projects by [John Smilga](https://www.johnsmilga.com/) 
 
-## You can see all projects in action here
+## You can see all projects in action [here] (https://www.vanillajavascriptprojects.com/)
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+## Projects
 
 ### I will be adding links to my working version of each project once they are all finished
 
